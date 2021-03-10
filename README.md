@@ -27,7 +27,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/gabriel-alves-de-paulo">
-        <img src="images/gabriel.jpeg" width="100px;" alt="Foto do Gabriel"/><br>
+        <img src="img/gabriel.jpeg" width="100px;" alt="Foto do Gabriel"/><br>
         <sub>
           <b>Gabriel Alves</b>
         </sub>
@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/luiz-fernando-pereira-da-costa-57b678207/">
-        <img src="images/luis.jpeg" width="100px;" alt="Foto do Luiz"/><br>
+        <img src="img/luis.jpeg" width="100px;" alt="Foto do Luiz"/><br>
         <sub>
           <b>Luiz Fernando</b>
         </sub>
@@ -43,7 +43,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/">
-        <img src="images/mateus.jpeg" width="100px;" alt="Foto do Mateus"/><br>
+        <img src="img/mateus.jpeg" width="100px;" alt="Foto do Mateus"/><br>
         <sub>
           <b>Mateus Pereira</b>
         </sub>
@@ -51,7 +51,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/raniery-azevedo-628945162/">
-        <img src="images/raniery.jpeg" width="100px;" alt="Foto do Raniery"/><br>
+        <img src="img/raniery.jpeg" width="100px;" alt="Foto do Raniery"/><br>
         <sub>
           <b>Raniery Pereira</b>
         </sub>
@@ -59,7 +59,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/ruan-lucas-soares-do-nascimento-570543206/">
-        <img src="images/ruan.jpg" width="100px;" alt="Foto do Ruan"/><br>
+        <img src="img/ruan.jpg" width="100px;" alt="Foto do Ruan"/><br>
         <sub>
           <b>Ruan Lucas</b>
         </sub>
@@ -74,7 +74,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/">
-        <img src="images/andre-lima.jpeg" width="100px;" alt="Foto Prof. André Gustavo"/><br>
+        <img src="img/andre-lima.jpeg" width="100px;" alt="Foto Prof. André Gustavo"/><br>
         <sub>
           <b>André Gustavo</b>
         </sub>
