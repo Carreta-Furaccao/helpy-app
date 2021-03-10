@@ -1,8 +1,21 @@
-# HELPY
+# Helpy
+
+## Sobre
+
+Este foi um projeto da disciplina do 3° Semestre do curso de Análise de Desenvolvimento de Sistemas, disciplina de Design de Software, da Universidade Católica de Brasília-DF. Com a supervisão do professor André Gustavo.
+
+O intuito do projeto era elaborar tanto um documento de visão quanto um de arquitetura. Exercitando os conhecimentos adiquiris das matérias anteriores de Engenharia de Software 1° semetres e Engenharia de Requisitos 2° Semestre. Além é claro , reforçar o trabalho em grupo e a pesquisa por conta própria.
+
+No decorrer do trabalho conhecemos diversos conceitos alem de ferramentas que usamos e poderiamos usar no projeto. Foi um grande aprendizado. E todas as dúvidas eram prontamente sanadas pelo professor.
+
+Apesar de não termos desenvolvido o software, aprendemos muito sobre a aréa de analise. Quem sabe futuramente possamos desenvolve-lo de fato.
+
+Fique a vontade para qualquer feedback sobre o projeto.
 
 ## Sumário
 
-- [HELPY](#helpy)
+- [Helpy](#helpy)
+  - [Sobre](#sobre)
   - [Sumário](#sumário)
   - [Documento de Visão](#documento-de-visão)
   - [Documento de Arquitetura](#documento-de-arquitetura)
@@ -95,6 +108,15 @@
 ## Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
 ## Conclusão
 
+Ao termino desse trabalho, sabemos agora a grande importancia que o projeto bem documentado tem. Que contruir um software já sabendo de fato o que deve ser feito nos economiza muito tempo, além de evitar vários problemas que podemos detectar com os documentos mencionados no projeto.
+
+Foi excelente trabalhar em grupo, e descutir vários conceitos, e aprender com a visão que cada um tem sobre deteminados temas. 
+
+Agradecemos o professor por todas as duvídas tiradas e principalmente pelos conhecimentos passados dentro de sala.
+
 ### Obrigado!
+
+Agradecemos a todos vocês que leram o trabalho. Fiquem a vontade pra feedbacks.
