@@ -1,5 +1,9 @@
 # Helpy
 
+## Versão
+
+Versão: 1.0
+
 ## Sobre
 
 Este foi um projeto da disciplina do 3° Semestre do curso de Análise de Desenvolvimento de Sistemas, disciplina de Design de Software, da Universidade Católica de Brasília-DF. Com a supervisão do professor André Gustavo.
@@ -15,16 +19,17 @@ Fique a vontade para qualquer feedback sobre o projeto.
 ## Sumário
 
 - [Helpy](#helpy)
+  - [Versão](#versão)
   - [Sobre](#sobre)
   - [Sumário](#sumário)
   - [Documento de Visão](#documento-de-visão)
   - [Documento de Arquitetura](#documento-de-arquitetura)
+  - [Wireframe](#wireframe)
   - [Autores](#autores)
   - [Orientador](#orientador)
-  - [Referências](#referências)
-  - [Licença](#licença)
   - [Conclusão](#conclusão)
-    - [Obrigado!](#obrigado)
+  - [Licença](#licença)
+  - [Referências](#referências)
 
 ## Documento de Visão
 
@@ -33,6 +38,14 @@ Fique a vontade para qualquer feedback sobre o projeto.
 ## Documento de Arquitetura
 
 [DOCUMENTO DE ARQUITETURA](DOCUMENTO-ARQUITETURA.md)
+
+## Wireframe
+
+| ![Wireframe 1!](wireframe/frame-01.png "Wireframe do app")   | ![Wireframe 2!](/wireframe/frame-02.png "Wireframe do app")  | ![Wireframe 3!](/wireframe/frame-03.png "Wireframe do app")  | ![Wireframe 4!](wireframe/frame-04.png "Wireframe do app")   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Wireframe 5!](/wireframe/frame-05.png "Wireframe do app")  | ![Wireframe 6!](/wireframe/frame-06.png "Wireframe do app")  | ![Wireframe 7!](/wireframe/frame-07.png "Wireframe do app")  | ![Wireframe 8!](/wireframe/frame-08.png "Wireframe do app")  |
+| ![Wireframe 9!](/wireframe/frame-09.png "Wireframe do app")  | ![Wireframe 10!](/wireframe/frame-10.png "Wireframe do app") | ![Wireframe 11!](/wireframe/frame-11.png "Wireframe do app") | ![Wireframe 12!](/wireframe/frame-12.png "Wireframe do app") |
+| ![Wireframe 13!](/wireframe/frame-13.png "Wireframe do app") |
 
 ## Autores
 
@@ -96,6 +109,18 @@ Fique a vontade para qualquer feedback sobre o projeto.
   </tr>  
 </table>
 
+## Conclusão
+
+Ao termino desse trabalho, sabemos agora a grande importancia que o projeto bem documentado tem. Que contruir um software já sabendo de fato o que deve ser feito nos economiza muito tempo, além de evitar vários problemas que podemos detectar com os documentos mencionados no projeto.
+
+Foi excelente trabalhar em grupo, e descutir vários conceitos, e aprender com a visão que cada um tem sobre deteminados temas. 
+
+Agradecemos o professor por todas as duvídas tiradas e principalmente pelos conhecimentos passados dentro de sala. Obrigado!
+
+## Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
 ## Referências
 
  - PRESSMAN, Roger. Engenharia de software. 8. Porto Alegre AMGH 2016
@@ -104,19 +129,3 @@ Fique a vontade para qualquer feedback sobre o projeto.
  - FOWLER, Martin. UML essencial um breve guia para linguagem padrão. 3a Edição. Porto Alegre Bookman 2011
  - TOMAS, Anderson. O modelo 4 + 1. Disponivel:<http://tassinfo.com.br/orientacao-a-objeto/o-modelo-4-1/> Acesso: 15/17/2020
  - Material de apoio do Prof. André Gustavo Bastos Lima
-
-## Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-## Conclusão
-
-Ao termino desse trabalho, sabemos agora a grande importancia que o projeto bem documentado tem. Que contruir um software já sabendo de fato o que deve ser feito nos economiza muito tempo, além de evitar vários problemas que podemos detectar com os documentos mencionados no projeto.
-
-Foi excelente trabalhar em grupo, e descutir vários conceitos, e aprender com a visão que cada um tem sobre deteminados temas. 
-
-Agradecemos o professor por todas as duvídas tiradas e principalmente pelos conhecimentos passados dentro de sala.
-
-### Obrigado!
-
-Agradecemos a todos vocês que leram o trabalho. Fiquem a vontade pra feedbacks.

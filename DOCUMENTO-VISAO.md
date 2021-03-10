@@ -1,5 +1,29 @@
 # DOCUMENTO DE VISÃO - HELPY
 
+## Sumário
+
+- [DOCUMENTO DE VISÃO - HELPY](#documento-de-visão---helpy)
+  - [Sumário](#sumário)
+  - [Introdução](#introdução)
+  - [Posicionamento](#posicionamento)
+    - [Declaração do problema](#declaração-do-problema)
+    - [Declaração da posição do produto](#declaração-da-posição-do-produto)
+  - [Declaração das partes interessadas](#declaração-das-partes-interessadas)
+    - [Resumo das partes interessadas](#resumo-das-partes-interessadas)
+    - [Ambiente do usuário](#ambiente-do-usuário)
+  - [Visão geral do produto](#visão-geral-do-produto)
+    - [Necessidades e recursos](#necessidades-e-recursos)
+  - [Outros requisitos do produto](#outros-requisitos-do-produto)
+  - [Requisitos funcionais](#requisitos-funcionais)
+    - [Diagrama de casos de uso](#diagrama-de-casos-de-uso)
+    - [Especificação de casos de uso](#especificação-de-casos-de-uso)
+      - [Caso de uso Manter Voluntario – Mateus Pereira](#caso-de-uso-manter-voluntario--mateus-pereira)
+      - [Caso de uso Manter Evento – Ruan Lucas](#caso-de-uso-manter-evento--ruan-lucas)
+      - [Caso de uso Manter Mantimentos – Gabriel Alves](#caso-de-uso-manter-mantimentos--gabriel-alves)
+      - [Caso de uso Manter Família – Luiz Fernando](#caso-de-uso-manter-família--luiz-fernando)
+      - [Caso de uso Manter Parceria – Raniery Azevedo](#caso-de-uso-manter-parceria--raniery-azevedo)
+  - [Lista de regras de negócio](#lista-de-regras-de-negócio)
+
 ## Introdução
 
 O Helpy é um aplicativo mobile para Android (6.0.1 ou mais) e IOS (10 ou mais) que tem como objetivo
@@ -7,7 +31,7 @@ promover eventos de arrecadação e doação de mantimentos para famílias de ba
 
 ## Posicionamento
 
-### 1. Declaração do problema
+### Declaração do problema
 
 |                              |                                                                                        |
 | ---------------------------- | -------------------------------------------------------------------------------------- |
@@ -16,7 +40,7 @@ promover eventos de arrecadação e doação de mantimentos para famílias de ba
 | No qual o impacto é          | É redução da renda por conta da diminuição de salários e do aumento do desemprego.     |
 | Uma solução de sucesso seria | Promover ações voluntárias da comunidade, em busca de recursos para famílias carentes. |
 
-### 1. Declaração da posição do produto
+### Declaração da posição do produto
 
 |               |                                                                                                                      |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +53,7 @@ promover eventos de arrecadação e doação de mantimentos para famílias de ba
 
 ## Declaração das partes interessadas
 
-### 1. Resumo das partes interessadas
+### Resumo das partes interessadas
 
 | Nome            | Descrição                                                                                                         |
 | --------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +64,7 @@ promover eventos de arrecadação e doação de mantimentos para famílias de ba
 | Desenvolvedores | Pessoa responsável por cuidar da codificação e desenvolvimento do software em si: Mateus, Gabriel, Luiz Fernando. |
 | Família         | Família que se encontre em situação de vulnerabilidade                                                            |
 
-### 2. Ambiente do usuário
+### Ambiente do usuário
 
 Atualmente, o cenário se descreve de maneira simples: Há famílias as quais se encontram em um
 grupo carente da sociedade e há grupos voluntários que se dispõem a oferecer ajuda. Para tal, são
@@ -50,7 +74,7 @@ produto e entrega aos necessitados.
 
 ## Visão geral do produto
 
-### 1. Necessidades e recursos
+### Necessidades e recursos
 
 | Necessidades                                                                                                                                                                                                                                                                | Funcionalidades correspondentes                                                                                             | Responsável                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
@@ -70,13 +94,13 @@ produto e entrega aos necessitados.
 
 ## Requisitos funcionais
 
-### 1. Diagrama de casos de uso
+### Diagrama de casos de uso
 
 ![Use Case!](usercase/UseCaseHelpy.png "Diagrama de Casos de Uso do Sistema")
 
-### 2. Especificação de casos de uso
+### Especificação de casos de uso
 
-#### 1. Caso de uso Manter Voluntario – Mateus Pereira
+#### Caso de uso Manter Voluntario – Mateus Pereira
 
   | CDU-01 |
   | ------ |
@@ -148,7 +172,7 @@ produto e entrega aos necessitados.
   | 7   |                                                   | O caso de uso é encerrado.                                                                                      |
 
 
-#### 2. Caso de uso Manter Evento – Ruan Lucas
+#### Caso de uso Manter Evento – Ruan Lucas
 
 
   | CDU-01 |
@@ -247,7 +271,7 @@ produto e entrega aos necessitados.
   | 4   | Encontrar o evento desejado e clicar em “Excluir”.                            | Apresentar mensagem de confirmação de exclusão.                                           |
   | 5   | Clicar em “Cancelar”.                                                         | Retornar para a tela com a sessão “Eventos”                                               |
 
-#### 3. Caso de uso Manter Mantimentos – Gabriel Alves
+#### Caso de uso Manter Mantimentos – Gabriel Alves
 
 
   | CDU-01 |
@@ -368,7 +392,7 @@ produto e entrega aos necessitados.
 
  
   
-#### 4. Caso de uso Manter Família – Luiz Fernando
+#### Caso de uso Manter Família – Luiz Fernando
 
   | CDU-01 |
   | ------ |
@@ -471,7 +495,7 @@ produto e entrega aos necessitados.
   | 8   |                                                        | O sistema volta para a página inicial.                                   |
 
 
-#### 5. Caso de uso Manter Parceria – Raniery Azevedo
+#### Caso de uso Manter Parceria – Raniery Azevedo
 
   | CDU-01 |
   | ------ |
@@ -599,12 +623,3 @@ produto e entrega aos necessitados.
 | ------------------------------------------------------------------------------- |
 | RN1: O organizador ou beneficiário deve manter o cadastro atualizado.           |
 | RN2: O sistema possibilitará a verificação de duas etapas para maior segurança. |
-
-
-## Wireframe
-
-| ![Wireframe 1!](wireframe/frame-01.png "Wireframe do app")   | ![Wireframe 2!](/wireframe/frame-02.png "Wireframe do app")  | ![Wireframe 3!](/wireframe/frame-03.png "Wireframe do app")  | ![Wireframe 4!](wireframe/frame-04.png "Wireframe do app")   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Wireframe 5!](/wireframe/frame-05.png "Wireframe do app")  | ![Wireframe 6!](/wireframe/frame-06.png "Wireframe do app")  | ![Wireframe 7!](/wireframe/frame-07.png "Wireframe do app")  | ![Wireframe 8!](/wireframe/frame-08.png "Wireframe do app")  |
-| ![Wireframe 9!](/wireframe/frame-09.png "Wireframe do app")  | ![Wireframe 10!](/wireframe/frame-10.png "Wireframe do app") | ![Wireframe 11!](/wireframe/frame-11.png "Wireframe do app") | ![Wireframe 12!](/wireframe/frame-12.png "Wireframe do app") |
-| ![Wireframe 13!](/wireframe/frame-13.png "Wireframe do app") |
