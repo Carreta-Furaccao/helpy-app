@@ -32,7 +32,7 @@ O presente documento tem como objetivo descrever o documento de arquitetura do p
 
 Este documento oferece uma visão geral arquitetural abrangente do sistema, usando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação ao sistema. O documento irá adotar uma estrutura baseada na visão “4+1” de modelo de arquitetura, conforme (Kruchten, 1994).
 
-![Use Case!](/imgdoc/Visões4-1.png "Visões 4+1 da arquitetura de software (Kruchten, 1994)")
+![Use Case!](img/visao-4x1.png "Visões 4+1 da arquitetura de software (Kruchten, 1994)")
 
 O público-alvo específico do documento são os membros da equipe que desenvolvem o projeto, pois há a possibilidade de que com este documento, uma visão arquitetural e abrangente do sistema seja obtida, além de auxiliar no entendimento do sistema por novos membros da equipe
 futuramente.
@@ -59,19 +59,19 @@ O Helpy é um aplicativo mobile para Android (6.0.1 ou mais) e IOS (10 ou mais) 
 
 ### Visão Geral
 
-![Use Case!](/imgdoc/VisaoGeral.png "Visão Geral")
+![Use Case!](/img/visao-geral.png "Visão Geral")
 
 ### Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
-![Use Case!](/imgdoc/Pacotes.png "Diagrama de pacotes")
+![Use Case!](/img/diagrama-de-pacotes.png "Diagrama de pacotes")
 
 ## Visão de Implantação
 
-![Use Case!](/imgdoc/Implantacao.png "Diagrama de pacotes")
+![Use Case!](/img/diagrama-de-implantacao.png "Diagrama de pacotes")
 
 ## Visão da implementação
 
-![Use Case!](/imgdoc/implementacao.png "Diagrama de pacotes")
+![Use Case!](/img/diagrama-de-implementacao.png "Diagrama de pacotes")
 
 ## Volume e Desempenho
 

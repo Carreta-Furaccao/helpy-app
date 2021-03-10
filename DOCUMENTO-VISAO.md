@@ -72,7 +72,7 @@ produto e entrega aos necessitados.
 
 ### 1. Diagrama de casos de uso
 
-![Use Case!](/usercase/UseCaseHelpy.png "Diagrama de Casos de Uso do Sistema")
+![Use Case!](usercase/UseCaseHelpy.png "Diagrama de Casos de Uso do Sistema")
 
 ### 2. Especificação de casos de uso
 
