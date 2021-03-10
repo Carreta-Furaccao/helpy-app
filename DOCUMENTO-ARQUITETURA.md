@@ -1,28 +1,20 @@
 # DOCUMENTO DE ARQUITETURA DE SOFTWARE - HELPY
 
 ## Sumário
-
-1. [Introdução](#introdução)
-   
-2. [Posicionamento](#posicionamento)
-   
-    2.1. [Declaração do problema](#1-declaração-do-problema)
-
-    2.2. [Declaração da posição do produto](#1-declaração-da-posição-do-produto)
-
-3. [Declaração das partes interessadas](#declaração-das-partes-interessadas)
-   
-    3.1. [Resumo das partes interessadas](#1-resumo-das-partes-interessadas)
-
-    3.2. [Ambiente do usuário](#2-ambiente-do-usuário)
-
-4. [Visão geral do produto](#visão-geral-do-produto)
-   
-    4.1. [Necessidades e recursos](#1-necessidades-e-recursos)
-
-5. [Outros requisitos do produto](#outros-requisitos-do-produto)
-   
-6. [Requisitos funcionais](#requisitos-funcionais)
+- [DOCUMENTO DE ARQUITETURA DE SOFTWARE - HELPY](#documento-de-arquitetura-de-software---helpy)
+  - [Sumário](#sumário)
+  - [Introdução](#introdução)
+  - [Finalidade](#finalidade)
+  - [Escopo](#escopo)
+  - [Requisitos e Restrições da Arquitetura](#requisitos-e-restrições-da-arquitetura)
+  - [Visão de Casos de Uso](#visão-de-casos-de-uso)
+  - [Visão Lógica](#visão-lógica)
+    - [Visão Geral](#visão-geral)
+    - [Pacotes de Design Significativos do Ponto de Vista da Arquitetura](#pacotes-de-design-significativos-do-ponto-de-vista-da-arquitetura)
+  - [Visão de Implantação](#visão-de-implantação)
+  - [Visão da implementação](#visão-da-implementação)
+  - [Volume e Desempenho](#volume-e-desempenho)
+  - [Qualidade](#qualidade)
 
 ## Introdução
 

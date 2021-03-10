@@ -17,7 +17,6 @@ Apesar de não termos desenvolvido o software, aprendemos muito sobre a aréa de
 Fique a vontade para qualquer feedback sobre o projeto.
 
 ## Sumário
-
 - [Helpy](#helpy)
   - [Versão](#versão)
   - [Sobre](#sobre)
