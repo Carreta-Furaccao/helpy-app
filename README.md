@@ -2,6 +2,20 @@
 
 ![Banner!](img/banner.png "Banner")
 
+## Sumário
+- [Helpy](#helpy)
+  - [Sumário](#sumário)
+  - [Versão](#versão)
+  - [Sobre](#sobre)
+  - [Documento de Visão](#documento-de-visão)
+  - [Documento de Arquitetura](#documento-de-arquitetura)
+  - [Wireframe](#wireframe)
+  - [Autores](#autores)
+  - [Orientador](#orientador)
+  - [Conclusão](#conclusão)
+  - [Licença](#licença)
+  - [Referências](#referências)
+
 ## Versão
 
 Versão: 1.0
@@ -17,20 +31,6 @@ No decorrer do trabalho conhecemos diversos conceitos alem de ferramentas que us
 Apesar de não termos desenvolvido o software, aprendemos muito sobre a aréa de analise. Quem sabe futuramente possamos desenvolve-lo de fato.
 
 Fique a vontade para qualquer feedback sobre o projeto.
-
-## Sumário
-- [Helpy](#helpy)
-  - [Versão](#versão)
-  - [Sobre](#sobre)
-  - [Sumário](#sumário)
-  - [Documento de Visão](#documento-de-visão)
-  - [Documento de Arquitetura](#documento-de-arquitetura)
-  - [Wireframe](#wireframe)
-  - [Autores](#autores)
-  - [Orientador](#orientador)
-  - [Conclusão](#conclusão)
-  - [Licença](#licença)
-  - [Referências](#referências)
 
 ## Documento de Visão
 
