@@ -1,5 +1,7 @@
 # Helpy
 
+![Banner!](img/banner.png "Banner")
+
 ## Versão
 
 Versão: 1.0
